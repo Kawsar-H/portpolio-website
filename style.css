@@ -1,0 +1,208 @@
+
+body{
+    margin: 0%;
+    
+}
+.menu{height: 60px;
+    text-align: right;
+    padding: 0%;
+    margin-bottom: 10px;
+}
+.menu li{
+    display: inline;
+}
+.menu li a{
+    text-decoration: none;
+    color:orange;
+    padding: 25px 15px;
+    font-size: 20px;
+    
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    color: #363958;
+}
+h2{
+    font-size: 25px;
+    color:#363958;
+}
+.name-highlight{
+    color: #FF8367;
+}
+p{
+    color:#3E3E3E;
+    margin-top: -30px;
+    margin-bottom: 40px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    color: white;
+    font-weight: 700;
+    align-items: center;
+    
+}
+
+section{
+   
+    height: 500px;
+    padding-bottom: 50px;
+    
+}
+.half-width{
+    width:40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+
+}
+.half-width img{
+    width:100%;
+}
+.section-element{
+    margin-top: 60px;
+}
+.title-center{
+    text-align: center;
+    padding-top: 40px;
+   
+}
+.coloum-width{
+    width:25%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.coloum-width img{
+    width:100%;
+
+}
+.singel-project{
+    box-shadow: 10px gray;
+    height: 70%;
+    border-radius: 15px;
+    background-color: white;
+}
+.coloum-width p{
+    margin-top: 10px;
+}
+.third-section{
+    
+    background-color: #e5e5e53a;
+}
+.coloum-one{
+        width:30%;
+        margin-left: 10%;
+        padding-top: 5%;
+        float: left;
+}
+.coloum-two{
+    margin-top: 70px;
+    
+}
+.four-section{
+   
+    background-image: url("images/image7.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 180px;
+    width: 80%;
+    margin:10%;
+    border-radius: 40px;
+}
+.coloum-one h1{
+    color:white;
+    font-size: 30px;
+}
+.coloum-two{
+    width:40%;
+    text-align: right;
+    
+}
+.five-section{
+   height: 50px;
+    padding-top: -40%;
+   
+   
+   
+
+}
+.connect{
+    width: 100%;
+    
+    
+    float: left;
+    }
+.icon-area img{
+    width: 50px;
+    height: auto;
+    padding: 15px;
+}
+.connected-area h3{
+    text-align: center;
+    color:#363958;
+    font-weight: 700;
+    font-family: 'Bebas Neue', cursive;
+    
+
+}
+.address{
+    font-size:60px;
+    text-decoration: none;
+    color: #363958 ;
+}
+.contact-section{
+    background-color:#dadcec50 ;
+    height: 500px;
+    box-shadow: blanchedalmond;
+
+}
+.contact-me{
+    width: 40%;
+    float: left;
+    height: 550px;
+}
+input{
+    width: 250px;
+    height: 20px;
+}
+
+.form{
+    padding: 5px;
+
+    text-align: center;
+    
+    
+
+
+
+}
+.form-area{
+    margin: 5%;
+
+   
+}
+.sub-button{
+    width: 80px;
+    height: 50px;
+    color: orange;
+    padding: 5px;
+    border-radius: 5px;
+    margin:-10px;
+    background-color:#363958 ;
+    font-weight: 900;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+    color:#363958;
+}
+.heading-side{padding: 80px;
+text-align: center;}
+.wrap{
+    text-align: center;
+}
+
